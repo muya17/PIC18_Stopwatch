@@ -1,0 +1,29 @@
+# MPLAB IDE generated files
+*.X/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.mcs
+*.lst
+*.err
+*.pre
+*.p1
+
+# Build directories
+build/
+dist/
+nbproject/private/
+
+# Other
+*.bak
+*.tmp
+*.log
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*~
